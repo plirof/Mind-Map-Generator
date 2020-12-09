@@ -1,2 +1,7 @@
-# Mind-Map-Generator
-Simple Mind-Map-Generator Forked &amp; translated from https://github.com/Skayo/Mind-Map-Generator
+## Mind Map Generator
+
+![Build and Deploy](https://github.com/Skayo/Mind-Map-Generator/workflows/Build%20and%20Deploy/badge.svg)
+
+Super simple mind map generator I've made for school
+
+[OPEN WEBSITE](https://mindmap.skayo.dev)
