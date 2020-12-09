@@ -2182,7 +2182,7 @@
     if ("" !== _n.value.trim()) {
       var n = document.querySelector("#mind-map > svg"),
         e = (new XMLSerializer).serializeToString(n),
-        r = "data:image/svg+xml;base64," + btoa(e),
+        r = "data:image/svg+xml;base64," + btoa(unescape(encodeURIComponent(e))),
         o = new Image;
       o.onload = function() {
         var t = Gn(o),
